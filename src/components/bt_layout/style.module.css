@@ -1,0 +1,22 @@
+.banner{
+    border: 2px solid blue;
+    padding-top:50px ;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    
+}
+.itemborder{
+    border: 2px solid red;
+}
+.item{
+    margin-bottom: 30px;
+}
+.footer{
+    margin-top: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    background-color: rgb(80, 85, 85);
+}
